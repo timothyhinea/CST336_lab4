@@ -7,3 +7,17 @@ body {
 h1{
     background-color:#2B48B3;
 }
+
+nav a { /* links within "nav" container */
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration: none; /*removes Underline */
+    color: white;          /* by default, links are blue */
+}
+
+nav a:hover { 
+    border-bottom:2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}

@@ -1,6 +1,9 @@
 {
   "name": "cst336_lab4",
-  "version": "10.22.1",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.x"
+  },
   "description": "",
   "main": "app.js",
   "scripts": {
